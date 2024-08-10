@@ -1,4 +1,4 @@
-![Diagram of the system](https://github.com/chathuracns/chathuracns/blob/main/The%20cluster%20that%20shows%20the%20sound%20absorbing%20object%20(1).png)
+![Diagram of the system](https://github.com/chathuracns/chathuracns/blob/main/The%20cluster%20that%20shows%20the%20sound%20absorbing%20object%20(1).jpg)
 
 I’m Chathura Nirmal Weerasinghe. I am pursuing a Bachelor of Science in Electronic Engineering, specializing in biomedical engineering at the University of Moratuwa. I am passionate about human-computer interaction, wearable devices, and machine learning on edge computing.
 
