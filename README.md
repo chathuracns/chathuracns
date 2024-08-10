@@ -1,3 +1,5 @@
+![Diagram of the system](https://github.com/chathuracns/chathuracns/blob/main/The%20cluster%20that%20shows%20the%20sound%20absorbing%20object%20(1).png)
+
 I’m Chathura Nirmal Weerasinghe. I am pursuing a Bachelor of Science in Electronic Engineering, specializing in biomedical engineering at the University of Moratuwa. I am passionate about human-computer interaction, wearable devices, and machine learning on edge computing.
 
 One of my notable projects received a grant from the World Bank. Using ultrasound technology, our team developed a patient height-measuring device for Sri Lankan clinical systems. We successfully addressed the challenge of low reflections due to dense scalp hair by employing a K-means clustering algorithm. This project, known as "MeasureUP" (measureup.lk), was commercially launched as a startup and received support from the World Bank-funded AHEAD program. Under the guidance of Dr. Ajith Pasqual, I gained comprehensive experience in medical product development, from prototyping to navigating regulatory requirements and intellectual property considerations.
