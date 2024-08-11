@@ -1,5 +1,5 @@
 ![Diagram of the system](https://github.com/chathuracns/chathuracns/blob/main/Background.png)
-
+# _Chathura Nirmal Weerasinghe_
 I’m  [_Chathura Nirmal Weerasinghe_](https://www.linkedin.com/in/chathura-weerasinghe-9a08bb213/). An Electronic Engineering Undergraduate, specializing in Biomedical Engineering at the University of Moratuwa. I am passionate about **Human-Computer Interaction, Wearable Devices,** and **Embadded Machine Learning.**
 
 One of my notable projects received a grant from the World Bank. Using ultrasound technology, our team developed a patient height-measuring device for Sri Lankan clinical systems. We successfully addressed the challenge of low reflections due to dense scalp hair by employing a K-means clustering algorithm. This project, known as 
