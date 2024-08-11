@@ -8,7 +8,7 @@ One of my notable projects received a grant from the World Bank. Using ultrasoun
 
 In my academic background, I received 
 [_bronze medals for both the Physics and Mathematics Olympiad and secured the 9th place representing Sri Lanka at the 12th Statistics Olympiad in 2020_](https://www.linkedin.com/in/chathura-weerasinghe-9a08bb213/details/honors/).
-In addition, I achieved 99th place out of 200000+ candidates in my country, with straight A’s in Maths, Physics, Chemistry, and English.
+For GCE Advanced level exam, I achieved 99th place out of 200000+ candidates in Sri Lanka, with  A’s in all four subjects Maths, Physics, Chemistry, and English.
 
 In my free time, I am interested in video and graphic designing, as well as scriptwriting and acting in dramas.
 
