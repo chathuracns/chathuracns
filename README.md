@@ -11,7 +11,7 @@ In my academic background, I received
 [_bronze medals for both the Physics and Mathematics Olympiad and secured the 9th place representing Sri Lanka at the 12th Statistics Olympiad in 2020_](https://www.linkedin.com/in/chathura-weerasinghe-9a08bb213/details/honors/).
 For GCE Advanced level exam, I achieved 99th place out of 200000+ candidates in Sri Lanka, with  A’s in all four subjects Maths, Physics, Chemistry, and English.
 
-In my free time, I am interested in video and graphic designing, as well as scriptwriting and acting in dramas here is s.
+In my free time, I am interested in video and graphic designing, as well as scriptwriting and acting in dramas Here, I have attached some of my dramas. Go and see "What the Sense of Humor through an Engineering Eye is." [_1."Latha.AI"_](https://www.linkedin.com/in/chathura-weerasinghe-9a08bb213/).
 
 
 
