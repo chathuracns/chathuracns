@@ -13,7 +13,7 @@ For GCE Advanced level exam, I achieved 99th place out of 200000+ candidates in 
 
 In my free time, I am interested in video and graphic designing, as well as scriptwriting and acting in dramas Here, I have attached some of my dramas. Go and see "What the Sense of Humor through an Engineering Eye is." [_1."Latha.AI"_](https://youtu.be/yPXYBtht1XQ?feature=shared) ,  [_2."Parakiyana Tharuka"_](https://youtu.be/5t9_GxEX5Pk?feature=shared).
 
-## _Prjects_
+## _Projects and experience_
 
 
 
