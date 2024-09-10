@@ -13,10 +13,13 @@ For GCE Advanced level exam, I achieved 99th place out of 200000+ candidates in 
 
 In my free time, I am interested in video and graphic designing, as well as scriptwriting and acting in dramas Here, I have attached some of my dramas. Go and see "What the Sense of Humor through an Engineering Eye is." [_1."Latha.AI"_](https://youtu.be/yPXYBtht1XQ?feature=shared) ,  [_2."Parakiyana Tharuka"_](https://youtu.be/5t9_GxEX5Pk?feature=shared).
 
+## _Prjects_
 
-![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/Linkedin8.png) **World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings.**| ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/2.png) **Zero G Dynamic Body-Weight Support System Using a Motorized Unloader** 
+
+
+![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/Linkedin8.png)  [_World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings._](https://measureup.lk/) | ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/2.png) [_Zero G Dynamic Body-Weight Support System Using a Motorized Unloader_](https://github.com/chathuracns/Zero-G-Dynamic-Body-Weight-Support-System-Using-a-Motorized-Unloader)
 --- | ---
-![@dayhaysoos](https://github.com/chathuracns/chathuracns/blob/main/4.png) **ECG Signal Extracting and Monitorig Using Analog Electronics and wet electrodes**| ![@ifiokjr](https://github.com/chathuracns/chathuracns/blob/main/1.png) **Human Height Measuring Under Low Ultrasound Reflection due to Dense Scalp Hair**
+![@dayhaysoos](https://github.com/chathuracns/chathuracns/blob/main/4.png) [_ECG Signal Extracting and Monitorig Using Analog Electronics and wet electrodes_](https://github.com/chathuracns/ECG-Signal-Extracting-and-Monitoring-Using-Analog-Electronics-and-wet-electrodes)| ![@ifiokjr](https://github.com/chathuracns/chathuracns/blob/main/1.png) [_Human Height Measuring Under Low Ultrasound Reflection due to Dense Scalp Hair_](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair)
 
 <!---
 chathuracns/chathuracns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
