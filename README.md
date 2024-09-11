@@ -19,7 +19,7 @@ In my free time, I am interested in video and graphic designing, as well as scri
 
 ![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/Linkedin8.png)  [_World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings._](https://measureup.lk/) | ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/2.png) [_Zero G Dynamic Body-Weight Support System Using a Motorized Unloader_](https://github.com/chathuracns/Zero-G-Dynamic-Body-Weight-Support-System-Using-a-Motorized-Unloader)
 --- | ---
-![ ](https://github.com/chathuracns/chathuracns/blob/main/4.png) [_ECG Signal Extracting and Monitorig Using Analog Electronics and wet electrodes_](https://github.com/chathuracns/ECG-Signal-Extracting-and-Monitoring-Using-Analog-Electronics-and-wet-electrodes)| ![@ifiokjr](https://github.com/chathuracns/chathuracns/blob/main/1.png) [_Human Height Measuring Under Low Ultrasound Reflection due to Dense Scalp Hair_](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair)
+![ ](https://github.com/chathuracns/chathuracns/blob/main/4.png) [_ECG Signal Extracting and Monitorig Using Analog Electronics and wet electrodes_](https://github.com/chathuracns/ECG-Signal-Extracting-and-Monitoring-Using-Analog-Electronics-and-wet-electrodes)| ![](https://github.com/chathuracns/chathuracns/blob/main/1.png) [_Human Height Measuring Under Low Ultrasound Reflection due to Dense Scalp Hair_](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair)
 
 <!---
 chathuracns/chathuracns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
