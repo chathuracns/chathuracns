@@ -17,7 +17,7 @@ In my free time, I am interested in video and graphic designing, as well as scri
 
 
 
-![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/Linkedin8.png)  [_World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings._](https://measureup.lk/) | ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/2.png) [_Zero G Dynamic Body-Weight Support System Using a Motorized Unloader_](https://github.com/chathuracns/Zero-G-Dynamic-Body-Weight-Support-System-Using-a-Motorized-Unloader)
+![@aprilspeight](https://github.com/chathuracns/chathuracns/blob/main/MeasureUP.png)  [_World Bank funded AHEAD Project to Develop a Portable BMI Measuring Device for Clinical Settings._](https://measureup.lk/) | ![@Brawrdon](https://github.com/chathuracns/chathuracns/blob/main/2.png) [_Zero G Dynamic Body-Weight Support System Using a Motorized Unloader_](https://github.com/chathuracns/Zero-G-Dynamic-Body-Weight-Support-System-Using-a-Motorized-Unloader)
 --- | ---
 ![ ](https://github.com/chathuracns/chathuracns/blob/main/4.png) [_ECG Signal Extracting and Monitorig Using Analog Electronics and wet electrodes_](https://github.com/chathuracns/ECG-Signal-Extracting-and-Monitoring-Using-Analog-Electronics-and-wet-electrodes)| ![](https://github.com/chathuracns/chathuracns/blob/main/1.png) [_Human Height Measuring Under Low Ultrasound Reflection due to Dense Scalp Hair_](https://github.com/chathuracns/Human-Height-Measuring-Under-Low-Ultrasound-Reflection-due-to-Dense-Scalp-Hair)
 
