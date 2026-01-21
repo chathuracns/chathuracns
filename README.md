@@ -3,7 +3,8 @@
 #### _Passionate in Wearables | Human Computer Interaction | Edge Computing_
 I’m  [_Chathura Nirmal Weerasinghe_](https://www.chathuranirmal.com). An Electronic Engineering Undergraduate, specializing in Biomedical Engineering at the University of Moratuwa. I am passionate about **Wearables, Human Computer Interaction,** and **Edge Computing.**
 
-In my Research Experience, I previously worked as a Research Intern at the Exertion Games Lab at Monash University, supervised by Dr. Don Samitha Elvitigala and Prof. Florian 'Floyd' Mueller. My work focused on developing wearable systems, including 'VibroBits,' a vibrotactile feedback system for sports training. I also provided technical engineering support for various PhD projects, such as gaze aversion detection and lucid dream induction studies, and was involved in the research process from initial analysis to manuscript revision.
+In my Research Experience, I previously worked as a Research Intern at the [_Exertion Games Lab_](https://exertiongameslab.org/) at Monash University, supervised by Dr. [_Don Samitha Elvitigala_](https://research.monash.edu/en/persons/don-samitha-elvitigala) and Prof. [_Florian 'Floyd' Mueller_](https://www.florianfloydmueller.com/). My work focused on developing wearable systems, including 'VibroBits,' a vibrotactile feedback system for sports training. I also provided technical engineering support for various PhD projects, such as gaze aversion detection and lucid dream induction studies, and was involved in the research process from initial analysis to manuscript revision.
+.
 
 One of my notable projects received a grant from the World Bank. Using ultrasound technology, our team developed a patient height-measuring device for Sri Lankan clinical systems. We successfully addressed the challenge of low reflections due to dense scalp hair by employing a K-means clustering algorithm. This project, known as 
 [_MeasureUP_]([https://chathuranirmal.com/MeasureUP/)
